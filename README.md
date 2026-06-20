@@ -2,11 +2,11 @@
 
 > Responsive Instagram UI Clone
 
-This project is a clone of the [Instagram UI](https://instagram.com). I made it to study and improve my skills with HTML and CSS, and learn new concepts, like layouts, responsiveness, positioning and some JS concepts. Any feedback, opinions or suggestions is very welcome!
+This project is a clone of the [Instagram UI](https://instagram.com). I made it to study and improve my skills with HTML and CSS, and learn new concepts, like layouts, responsiveness, positioning, and some JS concepts. Any feedback, opinions, or suggestions are very welcome!
 
 The latest update includes some nice new features, such as the gradient border and scroll buttons in stories, and the possibility to add more than one media to the post content, plus, of course, a major overhaul of the UI design!
 
-- **[Live Preview](https://akki.github.io/instagram-clone/)**
+- **[Live Preview](https://github.com/AmitPaswan7/Instagram-clone-main)
 
 ## 🤓 Improved Skills
 
